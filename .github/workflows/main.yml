@@ -6,7 +6,7 @@ on:
       agent_name:
         description: 'Nama Agen'
         required: true
-        default: 'Nama_Agen_Kamu'
+        default: 'hilmifirmansyah'
       agent_description:
         description: 'Deskripsi Agen'
         required: true
